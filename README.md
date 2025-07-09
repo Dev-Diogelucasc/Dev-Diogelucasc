@@ -23,27 +23,3 @@
 
 <hr>
 
-<h3 align="center">🚀 Estatísticas do GitHub</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO_GITHUB]&theme=tokyonight" />
-  </a>
-</div>
-
-<hr>
-
-<h3 align="center">📈 Meus Projetos e Atividades Recentes</h3>
-
-<hr>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev-DiogeLucasc&theme=tokyonight&row=1&column=7" alt="trophy" />
-  </a>
-</p>
