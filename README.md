@@ -17,7 +17,7 @@
 <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,python,cs,docker,git,vscode,figma,mysql,postgres,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,vscode,mysql,&perline=8" />
   </a>
 </p>
 
