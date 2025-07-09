@@ -1,9 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Dev-Diogelucasc&style=flat-square&color=blueviolet" alt="contagem de visitas"/>
-</p>
-
 <h1 align="center">
-  Opa! Eu sou <strong color="purple">Diogenes Cassimiro</strong>
+  Opa! Eu sou <strong &color="purple">Diogenes Cassimiro</strong>
 </h1>
 
 <p align="center">
