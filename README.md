@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Opa! Eu sou <strong>Diogenes Cassimiro</strong>
+  Opa! Eu sou <strong text-color="purple">Diogenes Cassimiro</strong>
 </h1>
 
 <p align="center">
