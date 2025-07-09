@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
+<h3 align="center">🛠️ Skills </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,java,git,vscode,mysql,&perline=8" />
