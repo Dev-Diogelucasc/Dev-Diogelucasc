@@ -1,52 +1,51 @@
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Dev-Diogelucasc&style=flat-square&color=blueviolet" alt="contagem de visitas"/>
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Oi!+Eu+sou+[SEU NOME];Sou+um(a)+[SUA PROFISSÃO];Sempre+aprendendo+e+evoluindo!" alt="Texto animado">
+  </a>
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Opa!%20Sou%20o%20Diogenes!&fontSize=70&fontColor=fff&animation=twinkling" />
+  <a href="https://www.linkedin.com/in/dev-cassimiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://portflio-diogenes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<div align="center">
-  <blockquote>
-    <p><em>"Desenvolvedor Front-End apaixonado por transformar ideias em interfaces digitais incríveis. Buscando sempre aprender e aplicar as melhores tecnologias para criar experiências de usuário memoráveis."</em></p>
-  </blockquote>
-  
-  - 🔭 Atualmente trabalhando em projetos pessoais com React.
-  - 📫 Como me encontrar: Veja os links no final!
-</div>
+<hr>
 
-<br>
-
-<h3 align="center">💻 Tecnologias e Ferramentas</h3>
+<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,vscode,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,python,cs,docker,git,vscode,figma,mysql,postgres,mongodb&perline=8" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/d6fKtkB.gif" alt="divider" width="100%"/>
-</p>
+<hr>
 
-<h3 align="center">🚀 Meu Desempenho no GitHub</h3>
+<h3 align="center">🚀 Estatísticas do GitHub</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Diogelucasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diogelucasc&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO_GITHUB]&theme=tokyonight" />
+  </a>
 </div>
 
-<br>
+<hr>
+
+<h3 align="center">📈 Meus Projetos e Atividades Recentes</h3>
+
+<hr>
 
 <p align="center">
-  <img src="https://i.imgur.com/d6fKtkB.gif" alt="divider" width="100%"/>
-</p>
-
-<h3 align="center">📬 Vamos nos Conectar!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-cassimiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="dev.diogelucas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev-DiogeLucasc&theme=tokyonight&row=1&column=7" alt="trophy" />
   </a>
 </p>
