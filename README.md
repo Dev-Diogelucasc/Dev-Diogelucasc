@@ -17,14 +17,10 @@
 
 <br>
 
-<p align="center">
-  <img src="https://i.imgur.com/d6fKtkB.gif" alt="divider" width="100%"/>
-</p>
-
 <h3 align="center">💻 Tecnologias e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,vscode,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,vscode,&perline=4" />
   </a>
 </p>
 
