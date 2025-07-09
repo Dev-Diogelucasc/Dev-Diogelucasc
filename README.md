@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRkeXN2eDR5eGJoZGplNXc3ZGFkbnBqZzhkNWYxbjFwM2FtaWk5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8s6vt2nJ5b1gxK37/giphy.gif" width="40px" style="margin-right: 5px;">
-  <strong>Opa! Eu sou Diogenes Cassimiro</strong> 👋
+ Opa! Eu sou <strong>Diogenes Cassimiro</strong> 
 </p>
 
 <p align="center">
@@ -23,8 +22,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<p align="center">
-  Vamos nos conectar! Pode me chamar no LinkedIn. 
+<p align="center" color="purple">
+  Contact 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-cassimiro/" target="_blank">
