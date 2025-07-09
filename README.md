@@ -1,5 +1,5 @@
 <h1 align="center">
-  Opa! Eu sou <strong &color="purple">Diogenes Cassimiro</strong>
+  Opa! Eu sou <strong  style="color:#8A2BE2;">Diogenes Cassimiro</strong>
 </h1>
 
 <p align="center">
