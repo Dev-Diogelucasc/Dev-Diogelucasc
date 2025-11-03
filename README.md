@@ -99,9 +99,3 @@ experientes e contribuir para o sucesso de projetos.
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  height="195px"
-  style="margin-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diogelucasc&theme=tokyonight&layout=compact&custom_title=Technologies" 
-  />
