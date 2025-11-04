@@ -11,6 +11,7 @@ cliente e servidor.
 Estou em busca da minha primeira oportunidade profissional para aplicar meu conhecimento técnico, aprender com desenvolvedores
 experientes e contribuir para o sucesso de projetos.
 
+<br>
 ##
 
 <!-- https://devicon.dev/ -->
@@ -94,7 +95,6 @@ experientes e contribuir para o sucesso de projetos.
   style="margin-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br>
 <br>
 
 ##
