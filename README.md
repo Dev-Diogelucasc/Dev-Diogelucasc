@@ -11,7 +11,6 @@ cliente e servidor.
 Estou em busca da minha primeira oportunidade profissional para aplicar meu conhecimento técnico, aprender com desenvolvedores
 experientes e contribuir para o sucesso de projetos.
 
-<br>
 ##
 
 <!-- https://devicon.dev/ -->
