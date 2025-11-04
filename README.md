@@ -104,6 +104,7 @@ experientes e contribuir para o sucesso de projetos.
 
 <div>
   <a href="https://www.linkedin.com/in/dev-cassimiro/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a> 
+  <a href="https://www.instagram.com/diogelucasc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href = "mailto:dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
   <!-- <a href="http://api.whatsapp.com/send?phone=5534997820808"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> -->
 </div>
