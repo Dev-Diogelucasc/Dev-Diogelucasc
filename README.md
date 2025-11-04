@@ -103,7 +103,8 @@ experientes e contribuir para o sucesso de projetos.
   ## 
 
 <div>
-  <a href="https://www.linkedin.com/in/dev-cassimiro/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/diogelucasc/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href = "mailto:dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dev-cassimiro/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=blue"></a> 
+  <a href="https://www.instagram.com/diogelucasc/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=red"></a> 
+  <a href = "mailto:dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=red"></a>
+  <!-- <a href = "mailto:dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 </div>
