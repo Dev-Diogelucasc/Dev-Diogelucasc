@@ -11,7 +11,7 @@ cliente e servidor.
 Estou em busca da minha primeira oportunidade profissional para aplicar meu conhecimento técnico, aprender com desenvolvedores
 experientes e contribuir para o sucesso de projetos.
 
-### 🤖 Linguagens e Tecnologias
+##
 
 <!-- https://devicon.dev/ -->
 <img
@@ -97,7 +97,7 @@ experientes e contribuir para o sucesso de projetos.
 <br>
 <br>
 
-### 📊 Estatísticas
+##
 
 <img
   align="left"
@@ -105,3 +105,12 @@ experientes e contribuir para o sucesso de projetos.
   style="margin-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diogelucasc&theme=tokyonight&layout=compact&custom_title=Technologies" 
   />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-diogelucasc&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  ## 
+
+<div>
+  <a href="https://www.linkedin.com/in/dev-cassimiro/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a> 
+  <a href = "mailto:dev.diogelucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+  <!-- <a href="http://api.whatsapp.com/send?phone=5534997820808"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> -->
+</div>
