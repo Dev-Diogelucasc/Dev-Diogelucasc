@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Diogenes Cassimiro
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor`**
 
 Desenvolvedor de Software em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFTM).
 Estou construindo minha carreira com foco no desenvolvimento de aplicações web robustas. Meus estudos se concentram tanto no back
