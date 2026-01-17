@@ -54,14 +54,6 @@ experientes e contribuir para o sucesso de projetos.
   style="margin-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-  <img
-  align="left"
-  alt="NEXT"
-  title="NEXT"
-  width="30px"
-  style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
 <img
   align="left"
   alt="NODE"
