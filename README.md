@@ -94,7 +94,8 @@ experientes e contribuir para o sucesso de projetos.
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Diogelucasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21900"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diogelucasc&layout=compact&theme=tokyonight&cache_seconds=21900"/> -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-diogelucasc&theme=tokyonight" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-diogelucasc&theme=tokyonight" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-diogelucasc&theme=tokyonight" /> -->
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dev-diogelucasc&layout=donut-vertical&hide_border=true&title_color=58A6FF&text_color=AAAAAA&theme=tokyonight&langs_count=15&cache_seconds=14400" alt="Top Languages" />
 
 </div>  
 
