@@ -2,14 +2,7 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor de Software em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFTM).
-Estou construindo minha carreira com foco no desenvolvimento de aplicações web robustas. Meus estudos se concentram tanto no back
-end, utilizando Java e o ecossistema Spring Boot para a criação de APIs RESTful, quanto no front-end, onde possuo conhecimento em React.js
-para o desenvolvimento de interfaces de usuário dinâmicas.
-Essa combinação de habilidades me proporciona uma compreensão valiosa da arquitetura completa de aplicações web e da integração entre
-cliente e servidor.
-Estou em busca da minha primeira oportunidade profissional para aplicar meu conhecimento técnico, aprender com desenvolvedores
-experientes e contribuir para o sucesso de projetos.
+Desenvolvedor de software em formação, com foco em backend utilizando Java e Spring Framework. Experiência prática no desenvolvimento de aplicações com arquitetura em camadas, implementação de regras de negócio e integração com bancos de dados SQL e NoSQL. Atualmente atuando no desenvolvimento de módulo integrado ao ERP Sankhya, trabalhando com regras de negócio, integração com Oracle (SQL/PLSQL) e comunicação entre componentes internos do sistema.
 
 ##
 
