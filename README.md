@@ -11,11 +11,59 @@ Possuo conhecimento em arquitetura de software, princípios SOLID e boas prátic
 
 <img
   align="left"
-  alt="TAILWIND CSS"
-  title="TAILWIND CSS"
+  alt="JAVA"
+  title="JAVA"
   width="30px"
   style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img
+  align="left"
+  alt="SPRING"
+  title="SPRING"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<img
+  align="left"
+  alt="POSTGRESQL"
+  title="POSTGRESQL"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img
+  align="left"
+  alt="ORACLE DATABASE"
+  title="ORACLE DATABASE"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
+<img
+  align="left"
+  alt="LINUX"
+  title="LINUX"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img
+  align="left"
+  alt="RABBITMQ"
+  title="RABBITMQ"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 
 <img
   align="left"
@@ -35,40 +83,43 @@ Possuo conhecimento em arquitetura de software, princípios SOLID e boas prátic
 
 <img
   align="left"
-  alt="JAVA"
-  title="JAVA"
+  alt="ANGULAR"
+  title="ANGULAR"
   width="30px"
   style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
 <img
   align="left"
-  alt="SPRING"
-  title="SPRING"
+  alt="DOCKER"
+  title="DOCKER"
   width="30px"
   style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <img
   align="left"
-  alt="GIT"
-  title="GIT"
+  alt="MAVEN"
+  title="MAVEN"
   width="30px"
   style="margin-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
-<br>
+<img
+  align="left"
+  alt="GRADLE"
+  title="GRADLE"
+  width="30px"
+  style="margin-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 
-##
-
-<div>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Diogelucasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21900"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diogelucasc&layout=compact&theme=tokyonight&cache_seconds=21900"/>
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-diogelucasc&theme=tokyonight" /> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/?username=dev-diogelucasc&theme=tokyonight" /> -->
-  <!-- <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dev-diogelucasc&layout=donut-vertical&hide_border=true&title_color=58A6FF&text_color=AAAAAA&theme=tokyonight&langs_count=15&cache_seconds=14400" alt="Top Languages" /> -->
-
-</div>  
+  <img
+  align="left"
+  alt="SANKHYA"
+  title="SANKHYA ERP"
+  height="30px"
+  style="margin-right: 10px;"
+  src="https://img.shields.io/badge/Sankhya-ERP-008C95?style=for-the-badge" />
 
 ## 
 
