@@ -2,7 +2,8 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor de software em formação, com foco em backend utilizando Java e Spring Framework. Experiência prática no desenvolvimento de aplicações com arquitetura em camadas, implementação de regras de negócio e integração com bancos de dados SQL e NoSQL. Atualmente atuando no desenvolvimento de módulo integrado ao ERP Sankhya, trabalhando com regras de negócio, integração com Oracle (SQL/PLSQL) e comunicação entre componentes internos do sistema.
+Desenvolvedor Backend Java com experiência no desenvolvimento de sistemas corporativos integrados ao ERP Sankhya e na construção de aplicações próprias publicadas em produção. Atuo no desenvolvimento de APIs, integrações entre sistemas, automação de processos e estruturação de fluxos de entrega contínua, com foco em qualidade, segurança, manutenibilidade e escalabilidade. 
+Possuo conhecimento em arquitetura de software, princípios SOLID e boas práticas de engenharia, aliando visão de negócio à capacidade de transformar necessidades reais em soluções confiáveis.
 
 ##
 
